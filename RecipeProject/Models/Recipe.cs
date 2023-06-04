@@ -8,7 +8,6 @@
         public List<Ingredient> Ingredients { get; set; } 
         public List<Instruction> Instructions { get; set; }
         public DifficultyLevel DifficultyLevel { get; set; }
-
     }
 
     public enum DifficultyLevel
